@@ -1,4 +1,4 @@
-SETTING UP PROJECT ON LOCAL MACHINE
+SETTING UP THE  PROJECT ON LOCAL MACHINE
 
 1. Download laravel from the laravel official website preferable using composer.
 2. Install neccesary dependency eg livewire, laravel/ui.
